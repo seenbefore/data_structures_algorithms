@@ -4,6 +4,10 @@
 ## 是什么
 一个代码仓库，用来存放自己用JS实现的数据结构和算法
 
+对应的知识库
+
+[数据结构](https://www.yuque.com/seenbefore/data-structure)
+
 ## 为什么
 1. 面试准备
 2. 打基础
